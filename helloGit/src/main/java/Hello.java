@@ -11,9 +11,8 @@ public class Hello {
         System.out.println("更新2");
         System.out.println("更新3");
         System.out.println("创建分支");
-        System.out.println("主干添加");
         System.out.println("dev添加");
          System.out.println("在线");
-
+        System.out.println("在dev分支上添加的");
     }
 }
